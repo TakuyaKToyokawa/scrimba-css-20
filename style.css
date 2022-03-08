@@ -1,0 +1,144 @@
+@import url("https://fonts.googleapis.com/css2?family=Karla:wght@400;700&family=Playfair+Display:wght@600;900&display=swap");
+
+:root {
+  font-size: 16px;
+  font-family: "Karla", sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Playfair Display", serif;
+}
+
+h1 {
+  font-size: 2.25rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+p {
+  line-height: 1.5rem;
+}
+
+a {
+  font-family: "Karla", sans-serif;
+  text-decoration: none;
+  color: #333;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+nav > ul {
+  padding: 0;
+  list-style: none;
+}
+
+nav > ul > li {
+  display: inline;
+}
+
+nav > ul > li > a {
+  margin: 0px 16px;
+  font-weight: 700;
+}
+
+button {
+  font-family: "Karla", sans-serif;
+  padding: 16px;
+  background-color: rgb(212, 186, 97);
+  border: none;
+  transition: 0.2s all ease;
+}
+
+button:hover {
+  background-color: rgb(185, 161, 82);
+}
+
+.item-center {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.rows {
+  display: flex;
+  flex-direction: row;
+}
+
+.rows-space-between {
+  justify-content: space-between;
+}
+
+.columns {
+  display: flex;
+}
+
+.spacing {
+  margin: 0px 16px;
+  padding: 32px;
+}
+
+.col-1 {
+  flex: 1;
+}
+
+.col-2 {
+  flex: 2;
+}
+
+.text-light {
+  color: #fff;
+}
+
+.text-accent {
+  color: #333;
+}
+
+.bg-accent {
+  background-color: rgb(241, 241, 241);
+}
+
+.bg-dark {
+  background-color: #333;
+}
+
+.box-shadow {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.hero {
+  background-size: cover;
+  height: 80vh;
+}
+
+.homepage-background {
+  background-image: url("img/background.jpg");
+}
+
+.install-background {
+  background-image: url("img/install-background.jpg");
+}
+
+.container-spacing {
+  padding: 64px 0;
+}
+
+.logo {
+  width: 200px;
+}
