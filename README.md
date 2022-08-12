@@ -1,12 +1,12 @@
 # League Homepage - Scrimba
 
-### `The Challenge`
-
-This challenge was under the "The Frontend Developer Career Path" course provided by Scrimba, and I challanged myself to create a homepage based on the popular game "League of Legends" and create a responsive experience.
+This project is deployed at the [link here.](https://takuyadev.github.io/league-homepage-scrimba/)
 
 ### `Summary`
 
-This project is a page for the popular game "League of Legends" and serves as a homepage and a signup page to get players introduced into playing or learning the game.
+This project is part of the Solo Project section of the "The Front-End Developer Crash Course", where the student is required to finish the project on their own without extensive help.
+
+This application is a page for the popular game "League of Legends" and serves as a homepage and a signup page to get players introduced into playing or learning the game.
 
 ### `Languages / Techstack`
 
