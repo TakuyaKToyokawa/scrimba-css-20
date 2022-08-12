@@ -1,4 +1,4 @@
-# BBQ Page - Scrimba
+# League Homepage - Scrimba
 
 ### `The Challenge`
 
